@@ -1,1 +1,1 @@
-NGROK_TOKEN="这里粘贴你的令牌"
+NGROK_TOKEN="2CgsrEiFo77OGfiMXDslbcOeGJx_44C13f1wNYZnQZJckx5Va"
